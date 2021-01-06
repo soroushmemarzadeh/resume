@@ -1,0 +1,78 @@
+{
+    "title": "Hello I'm Soroush!",
+    "subtitle": "Full Stack Dev | IT infrastructure manager",
+    "links": {
+        "github": "https://github.com/soroushmemarzadeh",
+        "linkedin": "https://ir.linkedin.com/in/iamsoorena",
+        "instagram": "https://www.instagram.com/soroushmemarzadeh/?hl=en"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I love to CODE."
+                },
+                {
+                    "type": "p",
+                    "content": "I Love Maktabkhoone."
+                },
+                {
+                    "type": "p",
+                    "content": "I dunno what to write here, but i think its enough to show i can edit this :D"
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/javascript.png",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/python.png",
+                        "title": "Python"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/prog.png",
+                        "title": "Django"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "down": "images/down.png"
+    }
+}
